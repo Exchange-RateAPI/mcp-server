@@ -135,7 +135,7 @@ async function main() {
   });
 
   const server = new Server(
-    { name: 'exchange-rateapi-mcp', version: '1.0.0' },
+    { name: 'exchange-rateapi-mcp', version: '1.0.1' },
     { capabilities: { tools: {} } },
   );
 

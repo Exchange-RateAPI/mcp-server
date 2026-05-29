@@ -3,7 +3,7 @@
   "name": "io.github.exchange-rateapi/mcp-server",
   "title": "Exchange Rate API",
   "description": "Live and historical foreign exchange rates for 160+ fiat currencies, sourced from Reuters/Refinitiv mid-market data. Tools: get_exchange_rate, get_historical_rates, get_rates, list_currencies.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/Exchange-RateAPI/mcp-server",
     "source": "github"
@@ -14,7 +14,7 @@
       "registryType": "npm",
       "registryBaseUrl": "https://registry.npmjs.org",
       "identifier": "@exchangerateapi/mcp-server",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "runtimeHint": "npx",
       "transport": {
         "type": "stdio"
