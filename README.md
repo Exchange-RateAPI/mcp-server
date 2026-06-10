@@ -1,5 +1,7 @@
 # @exchangerateapi/mcp-server
 
+[![Powered by Exchange-RateAPI](https://img.shields.io/badge/Powered%20by-Exchange--RateAPI-blueviolet.svg)](https://exchange-rateapi.com)
+
 [![npm](https://img.shields.io/npm/v/@exchangerateapi/mcp-server.svg)](https://www.npmjs.com/package/@exchangerateapi/mcp-server)
 [![license](https://img.shields.io/npm/l/@exchangerateapi/mcp-server.svg)](https://github.com/Exchange-RateAPI/mcp-server/blob/main/LICENSE)
 
