@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "exchange-rateapi": {
+      "command": "npx",
+      "args": ["-y", "@exchangerateapi/mcp-server"],
+      "env": {
+        "EXCHANGE_RATE_API_KEY": ""
+      }
+    }
+  }
+}
