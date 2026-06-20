@@ -10,18 +10,21 @@
   "license": "MIT",
   "homepage": "https://exchange-rateapi.com",
   "keywords": [
+    "currency api",
+    "exchange rate api",
+    "forex api",
+    "fx api",
+    "currency conversion api",
+    "real-time exchange rates",
+    "currency converter api",
     "currency",
     "exchange-rate",
-    "exchange-rates",
-    "currency-converter",
     "forex",
     "fx",
-    "finance",
-    "rates",
+    "currency-converter",
     "historical-rates",
-    "mcp",
+    "finance",
     "reuters",
-    "money",
-    "api"
+    "mcp"
   ]
 }
