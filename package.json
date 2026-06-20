@@ -1,7 +1,7 @@
 {
   "name": "@exchangerateapi/mcp-server",
-  "version": "1.0.1",
-  "mcpName": "io.github.exchange-rateapi/mcp-server",
+  "version": "1.0.2",
+  "mcpName": "io.github.Exchange-RateAPI/mcp-server",
   "description": "MCP server for Exchange Rate API — let AI coding tools (Claude Code, Cursor, Claude Desktop, Windsurf) fetch real-time and historical currency exchange rates.",
   "keywords": [
     "mcp",

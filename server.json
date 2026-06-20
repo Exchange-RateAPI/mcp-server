@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.exchange-rateapi/mcp-server",
+  "name": "io.github.Exchange-RateAPI/mcp-server",
   "title": "Exchange Rate API",
   "description": "Real-time & historical exchange rates for 160+ currencies, mid-market (Reuters/Refinitiv).",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "url": "https://github.com/Exchange-RateAPI/mcp-server",
     "source": "github"
@@ -14,7 +14,7 @@
       "registryType": "npm",
       "registryBaseUrl": "https://registry.npmjs.org",
       "identifier": "@exchangerateapi/mcp-server",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "runtimeHint": "npx",
       "transport": {
         "type": "stdio"
