@@ -17,7 +17,7 @@
 This guide outlines conventions and best practices for integrating
 **[Exchange Rate API](https://exchange-rateapi.com)** — real-time and historical
 foreign-exchange rates for 160+ currencies (mid-market, sourced from
-Reuters/Refinitiv, refreshed every ~60 seconds) — into applications and AI agents.
+institutional interbank market data, refreshed every ~60 seconds) — into applications and AI agents.
 
 It covers the REST API, the official SDKs (JavaScript, Python, PHP, Rust), and the
 MCP server (`@exchangerateapi/mcp-server`).

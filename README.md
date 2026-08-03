@@ -7,7 +7,7 @@
 
 MCP server that gives AI coding tools (Claude Code, Cursor, Claude Desktop, Windsurf) access to real-time and historical currency exchange rates from [Exchange Rate API](https://exchange-rateapi.com).
 
-160+ currencies. Mid-market rates updated every 60 seconds. Sourced from Reuters/Refinitiv.
+160+ currencies. Mid-market rates updated every 60 seconds. Sourced from institutional interbank market data.
 
 ## Quick Setup
 
