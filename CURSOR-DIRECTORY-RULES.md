@@ -32,7 +32,7 @@ MCP server (`@exchangerateapi/mcp-server`).
 
 ### Authentication & Secrets
 
-- Get a free key at https://exchange-rateapi.com/register (300 requests/month, no card).
+- Get a free key at https://exchange-rateapi.com/register (no credit card required).
 - Key format: `era_live_…`. Store it in the `EXCHANGE_RATE_API_KEY` environment variable.
 - Load it from `process.env` / `os.environ` / `$_ENV` — never inline it in source.
 - For browser apps, proxy through your own backend; the browser must never see the key.
@@ -143,7 +143,6 @@ Exposed tools:
 - Cache rates for **at least 60 seconds** (the refresh cadence). Key the cache by `source:target`.
 - For dashboards, fetch on an interval (e.g. every 60–300s), not per component render.
 - Batch with `targets=` to convert many currencies in a single request.
-- Free tier = 300 requests/month — budget accordingly; one multi-target call = one request.
 
 ### Currency & Amount Handling
 
