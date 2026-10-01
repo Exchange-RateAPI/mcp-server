@@ -1,5 +1,7 @@
 # @exchangerateapi/mcp-server
 
+> **Exchange Rate API is now **AllRatesToday**.** This package keeps working against `exchange-rateapi.com`, but it is no longer updated. For new projects use [`@allratestoday/mcp-server`](https://www.npmjs.com/package/@allratestoday/mcp-server) (or the hosted endpoint `https://allratestoday.com/api/mcp`) — the same real-time API plus official rates from 121 central banks. Docs: [allratestoday.com/docs](https://allratestoday.com/docs/).
+
 [![Powered by Exchange-RateAPI](https://img.shields.io/badge/Powered%20by-Exchange--RateAPI-blueviolet.svg)](https://exchange-rateapi.com)
 
 [![npm](https://img.shields.io/npm/v/@exchangerateapi/mcp-server.svg)](https://www.npmjs.com/package/@exchangerateapi/mcp-server)
