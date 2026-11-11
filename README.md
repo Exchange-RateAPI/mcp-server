@@ -2,12 +2,12 @@
 
 > **Exchange Rate API is now **AllRatesToday**.** This package keeps working against `exchange-rateapi.com`, but it is no longer updated. For new projects use [`@allratestoday/mcp-server`](https://www.npmjs.com/package/@allratestoday/mcp-server) (or the hosted endpoint `https://allratestoday.com/api/mcp`) — the same real-time API plus official rates from 121 central banks. Docs: [allratestoday.com/docs](https://allratestoday.com/docs/).
 
-[![Powered by Exchange-RateAPI](https://img.shields.io/badge/Powered%20by-Exchange--RateAPI-blueviolet.svg)](https://exchange-rateapi.com)
+[![Powered by Exchange-RateAPI](https://img.shields.io/badge/Powered%20by-Exchange--RateAPI-blueviolet.svg)](https://allratestoday.com)
 
 [![npm](https://img.shields.io/npm/v/@exchangerateapi/mcp-server.svg)](https://www.npmjs.com/package/@exchangerateapi/mcp-server)
 [![license](https://img.shields.io/npm/l/@exchangerateapi/mcp-server.svg)](https://github.com/Exchange-RateAPI/mcp-server/blob/main/LICENSE)
 
-MCP server that gives AI coding tools (Claude Code, Cursor, Claude Desktop, Windsurf) access to real-time and historical currency exchange rates from [Exchange Rate API](https://exchange-rateapi.com).
+MCP server that gives AI coding tools (Claude Code, Cursor, Claude Desktop, Windsurf) access to real-time and historical currency exchange rates from [Exchange Rate API](https://allratestoday.com).
 
 160+ currencies. Mid-market rates updated every 60 seconds, no retail spread.
 
@@ -103,7 +103,7 @@ Once configured, ask your AI assistant:
 
 ## Links
 
-- [API Documentation](https://exchange-rateapi.com/docs/)
+- [API Documentation](https://allratestoday.com/docs/)
 - [Get Free API Key](https://exchange-rateapi.com/register/)
 - [Dashboard](https://exchange-rateapi.com/dashboard/)
 - [GitHub](https://github.com/Exchange-RateAPI/mcp-server)
